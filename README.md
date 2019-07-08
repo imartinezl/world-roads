@@ -13,13 +13,20 @@ Countries rendered: Switzerland, Iceland, Korea (South and North), Malaysia, Net
 
 ## Visualizations
 
-![](figures/CHE.jpg)
-![](figures/ISL.jpg)
+**Scandinavia: Norway, Sweden, Finland**
+![](figures/NOR_SWE_FIN.png)
+**India**
+![](figures/IND.png)
+**Korean Peninsula**
 ![](figures/KOR_PRK.jpg)
+**Iceland**
+![](figures/ISL.jpg)
+**Malaysia**
 ![](figures/MYS.jpg)
-![](figures/NLD.jpg)
-![](figures/IND.jpg)
-![](figures/NOR_SWE_FIN.jpg)
+**Netherlands**
+![](figures/NLD.png)
+**Switzerland**
+![](figures/CHE.jpg)
 
 
 
