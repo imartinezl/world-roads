@@ -23,7 +23,7 @@ crs = ccrs.Orthographic(central_longitude=15, central_latitude=63)
 crs_proj4 = crs.proj4_init
 
 for c in countries:
-	border_file = c + '_adm/' + c + '_adm0.shp'
+	border_file = 'data/' + c + '_adm/' + c + '_adm0.shp'
 	border = gpd.read_file( border_file).to_crs(crs_proj4)
 	ax = border.plot(color='#000000', lw=1, alpha=1, ax=ax)
 	filename = c + '_roads/gis_osm_roads_free_1.shp'
