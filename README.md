@@ -4,7 +4,7 @@ Visualization of roads at country level.
 
 Made with [Python 3.6.8](https://www.python.org/), [Geopandas 0.5.0](http://geopandas.org/) and [Matplotlib 3.1.0](https://matplotlib.org/). 
 
-Countries rendered: Switzerland, Iceland, Korea (South and North), Malaysia, Netherlands, India, Finland, Sweden, Norway.
+Countries rendered: Switzerland 🇨🇭, Iceland 🇮🇸, Korea (South and North), Malaysia, Netherlands, India, Finland, Sweden, Norway.
 
 ## Data Sources
 
@@ -19,7 +19,7 @@ Countries rendered: Switzerland, Iceland, Korea (South and North), Malaysia, Net
 ![](figures/IND.png)
 **Korean Peninsula**
 ![](figures/KOR_PRK.jpg)
-**Iceland**
+**Iceland** 🇮🇸
 ![](figures/ISL.jpg)
 **Turkey**
 ![](figures/TUR.jpg)
@@ -27,7 +27,7 @@ Countries rendered: Switzerland, Iceland, Korea (South and North), Malaysia, Net
 ![](figures/MYS.jpg)
 **Netherlands**
 ![](figures/NLD.png)
-**Switzerland**
+**Switzerland** 🇨🇭
 ![](figures/CHE.jpg)
 
 
